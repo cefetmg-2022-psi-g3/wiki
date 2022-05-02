@@ -38,3 +38,10 @@ Este projeto facilitará a visualização e comparação dos cardápios de ambos
 
 * A solução apresentará apenas informações dos campus de Belo Horizonte
 * O saldo do cartão será simulado devido as normas de segurança e criptografia. 
+
+# Especificação do Domínio e dos Requisitos da Solução Tecnológica
+
+* [[Detalhamento dos Protótipos e Requisitos de Interface]]
+* [[Detalhamento dos Requisitos Funcionais]]
+* [[Detalhamento dos Requisitos Não-Funcionais]]
+
