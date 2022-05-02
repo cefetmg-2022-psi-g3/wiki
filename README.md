@@ -8,6 +8,9 @@ Este projeto facilitará a visualização e comparação dos cardápios de ambos
 * RF01: O sistema deverá mostrar os cardápios de ambos os campus
 * RF02: O sistema deverá simular saldo do cartão
 * RF03: O sistema deverá apresentar um mecanismo de avaliação dos pratos
+* RF04: O sistema deverá permitir que o usuário crie uma conta
+* RF05: O sistema deverá permitir que o usuário acesse e deslogue de sua conta
+* RF06: O sistema deverá permitir que o usuário delete sua conta
 
 ## Requisitos não funcionais
 
