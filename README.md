@@ -41,7 +41,7 @@ Este projeto facilitará a visualização e comparação dos cardápios de ambos
 
 # Especificação do Domínio e dos Requisitos da Solução Tecnológica
 
-* [[Detalhamento dos Protótipos e Requisitos de Interface]]
-* [[Detalhamento dos Requisitos Funcionais]]
-* [[Detalhamento dos Requisitos Não-Funcionais]]
+* [Detalhamento dos Protótipos e Requisitos de Interface]()
+* [Detalhamento dos Requisitos Funcionais]()
+* [Detalhamento dos Requisitos Não-Funcionais]()
 
