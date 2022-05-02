@@ -1,5 +1,5 @@
-| # | Codigo e Nome | Descrição     | Atores| Código dos Requisitos Relacionados |
-| --- | ------------- |-------------:| :-----:|:-------------:|
+| # | Codigo e Nome | Descrição | Atores| Código dos Requisitos Relacionados |
+| --- | ------------- |-------------| :-----:|:-------------:|
 | 1 | INT01 - Página inicial | Interface onde será feita a simulação do crédito | Usuário padrão | RF02 |
 | 2 | INT02 - Cardápios | Interface onde será apresentado os cardápios de ambos os campus | Usuário padrão | RF01 |
 | 3 | INT03 - Avaliações e Comentários| Interface onde ficarão as avaliações e comentários feitas pelos usuários padrões | Usuário padrão | RF03 |
