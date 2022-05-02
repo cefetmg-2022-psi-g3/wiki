@@ -11,7 +11,7 @@ Este projeto facilitará a visualização e comparação dos cardápios de ambos
 * RF04: O sistema deverá permitir que o usuário crie uma conta
 * RF05: O sistema deverá permitir que o usuário acesse e deslogue de sua conta
 * RF06: O sistema deverá permitir que o usuário delete sua conta
-* RF07: O sistema deverá permitir que o usuário configure algumas opções
+* RF07: O sistema deverá permitir que o usuário tenha acesso a um menu de configurações
 
 ## Requisitos não funcionais
 
