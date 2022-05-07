@@ -2,7 +2,7 @@
 
 | # | Nome | Descrição | Valores válidos | Tipo | Restrições |
 | --- | ------------- |-------------| :-----:|:-------------:| --- |
-| 1 | Menu | Exibe o que é de comida | Caracteres alfanuméricos | Texto | Não se aplica |
+| 1 | Menu | Exibe qual a comida do dia | Caracteres alfanuméricos | Texto | Não se aplica |
 | 2 | Valor | Quantidade de dinheiro disponível | Caracteres numéricos | Racional | Não se aplica |
 | 3 | Alterar | Adiciona ou transfere o saldo do usuário | Caracteres numéricos | Racional | Valores negativos |
 | 4 | Remover | Reduz salário | Caracteres numérios | Racional | Valores positivos |
